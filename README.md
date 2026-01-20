@@ -13,7 +13,7 @@ The system was designed as an internal reservation and management tool used by h
 
 The design emphasizes accuracy, scalability, and usability while integrating with existing hotel operations.
 
-The final system proposal can be viewed here: [Final Hotel Booking System (PDF)] (final-hotel-conference-booking-system.pdf)
+The final system proposal can be viewed here: [Final Hotel Booking System (PDF)](final-hotel-conference-booking-system.pdf)
 
 
 ---
