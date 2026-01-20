@@ -96,10 +96,16 @@ The system aligns with existing hotel workflows and includes management involvem
 - Feasibility Analysis  
 - Requirements Definition Document  
 - Use Case Specifications  
-- Data Flow Diagrams (DFDs)  
-- Entity Relationship Diagram (ERD)  
-- User Interface Mockups  
+- Data Flow Diagrams (DFDs)
+      - ![Context DFD](dfd-context.png)
+      - ![Level 0 DFD](dfd-level-0.png)
 
+- Entity Relationship Diagram (ERD)
+      - ![ERD](hotel-reservation-erd.png)
+  
+- User Interface Mockups  
+      - ![Reservation Screen](ui-reservation-example.png)
+  
 ---
 
 ## Tools and Skills
