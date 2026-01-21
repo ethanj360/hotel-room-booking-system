@@ -64,7 +64,7 @@ Each use case includes defined actors, triggers, preconditions, postconditions, 
 - Context-level diagram showing system boundaries  
 - Level 0 and Level 1 diagrams detailing reservation, customer, and reporting processes  
 
-![Context DFD](dfd/dfd-context.png)
+![Context DFD](DFDs/dfd-context.png)
 ![Level 0 DFD](dfd-level-0.png)
 
 **Entity Relationship Diagram (ERD)**  
