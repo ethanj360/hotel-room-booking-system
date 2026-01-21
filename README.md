@@ -65,13 +65,13 @@ Each use case includes defined actors, triggers, preconditions, postconditions, 
 - Level 0 and Level 1 diagrams detailing reservation, customer, and reporting processes  
 
 ![Context DFD](DFDs/dfd-context.png)
-![Level 0 DFD](dfd-level-0.png)
+![Level 0 DFD](DFDs/dfd-level-0.png)
 
 **Entity Relationship Diagram (ERD)**  
 - Models relationships between customers, reservations, conference rooms, and related entities  
 - Defines primary and foreign key relationships for structured data storage  
 
-![ERD](hotel-reservation-erd.png)
+![ERD](DFDs/hotel-reservation-erd.png)
   
 
 ---
